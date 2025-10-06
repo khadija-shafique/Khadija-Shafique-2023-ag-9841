@@ -1,4 +1,4 @@
-WebDev Course — 
+WebDev Course — 4 pages
 Overview
 
 This project is a four-page educational website developed to demonstrate the use of HTML5 semantic elements and modern CSS styling.
@@ -55,5 +55,5 @@ Basic responsive design techniques
 Author
 
 Khadija Shafique 
-BS Information Technology (4th Semester)
+BS Information Technology (5th Semester)
 University of Agriculture, Faisalabad
